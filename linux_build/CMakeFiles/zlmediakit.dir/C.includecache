@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/startraveler/文档/Files/ZLMediaKit/src/H264/SPSParser.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdint.h
+-
+SPSParser.h
+/home/startraveler/文档/Files/ZLMediaKit/src/H264/SPSParser.h
+
+/home/startraveler/文档/Files/ZLMediaKit/src/H264/SPSParser.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test_httpClient.dir/test_httpClient.cpp.o  -o ../bin/test_httpClient ../lib/libzlmediakit.a ../lib/libzltoolkit.a -lssl -lcrypto -lmysqlclient -lmp4v2 -lx264 -lfaac -lpthread -lavutil -lavcodec 

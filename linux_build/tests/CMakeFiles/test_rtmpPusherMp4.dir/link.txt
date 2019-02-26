@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test_rtmpPusherMp4.dir/test_rtmpPusherMp4.cpp.o  -o ../bin/test_rtmpPusherMp4 ../lib/libzlmediakit.a ../lib/libzltoolkit.a -lssl -lcrypto -lmysqlclient -lmp4v2 -lx264 -lfaac -lpthread -lavutil -lavcodec 

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test_server.dir/test_server.cpp.o  -o ../bin/test_server ../lib/libzlmediakit.a ../lib/libzltoolkit.a -lssl -lcrypto -lmysqlclient -lmp4v2 -lx264 -lfaac -lpthread -lavutil -lavcodec 
